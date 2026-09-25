@@ -1,0 +1,6 @@
+{
+  "name": "SubTrack",
+  "description": "Track recurring subscriptions, renewal dates, and monthly spending with smart analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
